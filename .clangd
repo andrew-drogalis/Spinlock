@@ -1,0 +1,7 @@
+CompileFlags:
+   Add: 
+        - "-D__cpp_concepts=202311L"
+        - "-D__cpp_concepts=202002L"
+        - "-D__cpp_concepts=202211L"
+        - "std=c++23"
+
